@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Singapore",
+    "isComing": false,
+    "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/sg.svg",
+    "supportedBanks": [
+      {
+        "id": 1,
+        "name": "DBS Bank",
+        "isActive": true
+      },
+      {
+        "id": 2,
+        "name": "J.P. Morgan Singapore",
+        "isActive": true
+      },
+      {
+        "id": 3,
+        "name": "OCBC Bank",
+        "isActive": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Indonesia",
+    "isComing": false,
+    "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/id.svg",
+    "supportedBanks": [
+      {
+        "id": 4,
+        "name": "Bank Rakyat",
+        "isActive": true
+      },
+      {
+        "id": 5,
+        "name": "Bank Negara",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Hongkong",
+    "isComing": false,
+    "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/hk.svg",
+    "supportedBanks": [
+      {
+        "id": 6,
+        "name": "Bank of China",
+        "isActive": true
+      },
+      {
+        "id": 7,
+        "name": "Hang Seng Bank",
+        "isActive": true
+      },
+      {
+        "id": 8,
+        "name": "Nanyang Commercial Bank",
+        "isActive": false
+      },
+      {
+        "id": 9,
+        "name": "Chong Hing Bank",
+        "isActive": true
+      },
+      {
+        "id": 10,
+        "name": "Shanghai Commercial Bank",
+        "isActive": false
+      },
+      {
+        "id": 11,
+        "name": "Fubon Bank",
+        "isActive": true
+      },
+      {
+        "id": 12,
+        "name": "Dah Sing Bank",
+        "isActive": true
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Malaysia",
+    "isComing": true,
+    "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/my.svg"
+  },
+  {
+    "id": 5,
+    "name": "United Kingdom",
+    "isComing": true,
+    "thumbnailUrl": "https://raw.githubusercontent.com/fred-ng/transwap-coding-challenge/main/assets/images/uk.svg"
+  }
+]
